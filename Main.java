@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Pro3_saigala3 {
+public class Main {
     //Initializing a public BufferedReader object; the only BufferedReader object in the entire program
     public static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
