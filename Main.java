@@ -6,7 +6,6 @@ public class Pro3_saigala3 {
     //Initializing a public BufferedReader object; the only BufferedReader object in the entire program
     public static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-    
     //creating the main method
     public static void main(String[] args) throws IOException{
     	String output=" ";	
