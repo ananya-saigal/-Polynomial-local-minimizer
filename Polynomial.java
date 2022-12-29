@@ -1,7 +1,7 @@
 	//Polynomial Class is set
 	public class Polynomial {
 		private int n =0; // no. of variables
-	    private int degree =0; // degree of polynomial
+	        private int degree =0; // degree of polynomial
 		//Create a 2D array of any length to store the as many coefficients as needed
 		private double[][] coefs = new double[0][0];
 
