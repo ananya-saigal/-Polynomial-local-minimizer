@@ -21,5 +21,6 @@ In this project, we will look at three line search methods:
 1. Fixed step size (inexact)
 2. Armijo line search (inexact)
 3. Golden section search (exact)
+
 All the 3 line search methods inherits from the SteepestDescent class.
 
